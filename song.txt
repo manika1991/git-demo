@@ -4,4 +4,8 @@
 4on this their chosen battle field 
 5
 6form the lines
+<<<<<<< HEAD
 7shield by shield
+=======
+7shield by shield
+>>>>>>> 3066099c3377264854fb5ed6b6fd7c26af686529
